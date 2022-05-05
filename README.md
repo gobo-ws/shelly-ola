@@ -7,6 +7,9 @@ Instructions are coming soon.
 
 **Requirements**  
 
+* [Shelly Gen2 (ESP32) device](https://shelly.cloud/)
+* [OLA](https://www.openlighting.org/ola/)
+
 **Installation**  
 
 **Usage**
