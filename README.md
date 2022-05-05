@@ -1,6 +1,6 @@
 **Shelly to OLA DMX**  
 Make your own custom DMX wall panel.  
-mJS script for sending DMX values to OLA using push button or switches.  
+mJS script for sending DMX values to OLA using push buttons or switches.  
 Tested with Shelly Plus 1.  
 
 **Requirements**  
