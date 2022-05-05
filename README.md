@@ -8,6 +8,7 @@ Instructions are coming soon.
 **Requirements**  
 
 * [Shelly Gen2 (ESP32) device](https://shelly.cloud/)
+* Some push button or switch
 * [OLA](https://www.openlighting.org/ola/)
 
 **Installation**  
